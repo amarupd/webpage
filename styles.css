@@ -1,0 +1,43 @@
+body
+{
+  background-image: url("a3 (2).jpg");
+}
+  p1
+  {
+     color: #da4302;
+   }
+td.ab
+{
+  border-style: ridge;
+    background-color: #bac7a7;
+}
+table.ac
+{
+  border-style: dotted;
+}
+h2
+{
+  color: green;
+  text-decoration: underline;
+}
+#hh
+{
+  padding: 5px;
+  border-radius: 50px;
+  border-style: outset;
+  border-color: red;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: 580px;
+  margin-left: 580px;
+  background-color: lightblue;
+
+}
+b
+{
+  color: #cd4dcc;
+}
+i
+{
+  color: #0f4c75;
+}

@@ -1,0 +1,375 @@
+
+div.A2
+{
+  list-style: none;
+  top: 0px;
+  left: 0px;
+  height: 200px;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  display: inline-block;
+  background-color: #75daad;
+}
+div.A3
+{
+  top: 10px;
+  left: 210px;
+  margin: 0px;
+  padding: 0px;
+    position: absolute;
+}
+div.A1
+{
+    top: 30px;
+  margin: 10px;
+  right: 300px;
+  padding: 10px;
+  color: #216353;
+  font-family: 'Pacifico' ;
+  width: 10%;
+    position: absolute;
+}
+#TB1
+{
+  width: 250%;
+}
+a
+{
+  text-decoration: none;
+  color: #216353;
+  font-family: 'Aclonica';
+}
+div.A4
+{
+  list-style: none;
+  top: 200px;
+  left: 0px;
+  height: 700px;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  color: #2c7873;
+  display: inline-block;
+  background-color: #75daad;
+font-family: 'Allura' ;
+}
+h1.A5
+{
+
+  font-size: 80px;
+  margin: 0px;
+  padding: 0px
+}
+h3.A6
+{
+
+  font-size: 40px;
+  margin: 0px;
+  padding: 0px
+}
+div.A6
+{
+  margin-left: 300px;
+  bottom: 0px;
+  position: absolute;
+}
+div.A7
+{
+  left: 150px;
+  bottom: 400px;
+  position: absolute;
+}
+div.A8
+{
+  right: 200px;
+  top: 10px;
+  position: absolute;
+}
+div.A9
+{
+  top: 800px;
+  left: 0px;
+  height: 600px;
+  background-color: #e4f9ff;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  color: #2c7873;
+  display: inline-block;
+}
+div.A10
+{
+  margin: 0px;
+  padding: 0px;
+  left: 480px;
+  top: 80px;
+  position: absolute;
+}
+div.A11
+{
+  margin: 0px;
+  padding: 0px;
+  left: 350px;
+  top: 380px;
+  right: 550px;
+  position: absolute;
+  font-size: 20px;
+  display: inline-block;
+}
+div.A12
+{
+  margin: 0px;
+  padding: 0px;
+  left: 350px;
+  top: 250px;
+  right: 550px;
+  position: absolute;
+  font-size: 35px;
+  font-family: 'Aclonica';
+}
+#C3
+{
+  top: 20px;
+  color: #207561;
+  left: 80px;
+  width: 600px;
+  position: absolute;
+}
+div.A13
+{
+  margin: 0px;
+  padding: 0px;
+  top: 1400px;
+  left: 0px;
+  height: 450px;
+  background-color: #c3f0ca;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  color: #2c7873;
+  display: inline-block;
+}
+div.A14
+{
+  margin: 0px;
+  padding: 0px;
+  color: #207561;
+  left: 600px;
+font-size: 30px;
+font-family: 'Aclonica' ;
+position: absolute;
+}
+
+div.A15
+{
+  margin: 0px;
+  padding: 0px;
+  left: 220px;
+  top: 140px;
+  position: absolute;
+
+}
+div.A16
+{
+  margin: 0px;
+  padding: 0px;
+  left: 440px;
+  top: 100px;
+  position: absolute;
+}
+
+div.A17
+{
+  margin: 0px;
+  padding: 0px;
+  left: 720px;
+  top: 140px;
+  font-size: 25px;
+  position: absolute;
+}
+
+div.A18
+{
+  margin: 0px;
+  padding: 0px;
+  left: 720px;
+  right: 280px;
+  top: 210px;
+  font-size: 20px;
+  position: absolute;
+}
+div.A19
+{
+  right: 50px;
+  top: 0px;
+  position: absolute;
+}
+
+div.A20
+{
+  margin: 0px;
+  padding: 0px;
+  top: 1850px;
+  left: 0px;
+  height: 450px;
+  background-color: #c6cbef;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  color: #2c7873;
+  display: inline-block;
+}
+
+div.A22
+{
+  margin: 0px;
+  padding: 0px;
+  right: 220px;
+  top: 100px;
+  position: absolute;
+
+}
+div.A23
+{
+  margin: 0px;
+  padding: 0px;
+  right: 440px;
+  top: 60px;
+  position: absolute;
+}
+
+div.A24
+{
+  margin: 0px;
+  padding: 0px;
+  right: 610px;
+  top: 60px;
+  font-size: 25px;
+  position: absolute;
+}
+
+div.A25
+{
+  margin: 0px;
+  padding: 0px;
+  right: 560px;
+  left: 320px;
+  top: 150px;
+  font-size: 20px;
+  position: absolute;
+}
+
+div.A27
+{
+  margin: 0px;
+  padding: 0px;
+  top: 2300px;
+  left: 0px;
+  height: 450px;
+  background-color: #d1eecc;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  color: #2c7873;
+  display: inline-block;
+}
+div.A28
+{
+  margin: 0px;
+  padding: 0px;
+  color: #207561;
+  left: 680px;
+font-size: 30px;
+font-family: 'Aclonica' ;
+position: absolute;
+}
+div.A29
+{
+  margin: 0px;
+  padding: 0px;
+  left: 570px;
+  top: 100px;
+  font-size: 20px;
+  position: absolute;
+
+}
+div.A30
+{
+  margin: 0px;
+  padding: 0px;
+  left: 650px;
+  width: 400PX;
+  top: 150px;
+  font-size: 20PX;
+  position: absolute;
+}
+table.A31
+{
+  border: outset;
+  border-radius: 5px;
+  width: 160px;
+    background-color: #d6e5fa;
+  position: absolute;
+
+}
+div.A32
+{
+  margin: 0px;
+  padding: 0px;
+  left: 770px;
+  top: 280px;
+
+  position: absolute;
+}
+div.A33
+{
+  margin: 0px;
+  padding: 0px;
+  top: 2750px;
+  left: 0px;
+  height: 300px;
+  background-color: #c6cbef;
+  width: 1370px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  color: #f0dd92;
+  display: inline-block;
+}
+#B1
+{
+  left: 200px;
+  top: 60px;
+  position: absolute;
+}
+#B2
+{
+  left: 1000px;
+  top: 60px;
+  position: absolute;
+}
+#B3
+{
+  left: 200px;
+  top: 110px;
+  position: absolute;
+}
+#B4
+{
+  left: 1000px;
+  top: 110px;
+  position: absolute;
+}
+div.C1
+{
+  left: 220px;
+  top: 50px;
+  position: absolute;
+}
